@@ -31,7 +31,8 @@ There are three figures provided. These are visualizations created in the explor
 visualizations were created using Plotly express. The charts have also been included as an image file with links attached.
 
 A summary of the each chart is provided below:
-![top terms](Figure 1-Distribution of Scores.png)
+
+![top terms](images/Figure 1-Distribution of Scores.png)
 <div align="center"> Figure 1-Distribution of Scores for Amazon fine food reviews</div>
 <br> 
 
