@@ -1,5 +1,4 @@
-# User-based-collaborative-filtering
-Building and testing of a recommender system using a user based collaborative filtering technique.
+
 ## Project title: Building and testing of a recommender system using a user based collaborative filtering technique.
 
 ### Author: [Tola Ogunniyi](https://www.linkedin.com/in/tolaogunniyi/)
@@ -36,6 +35,10 @@ visualizations were created using Plotly express. The charts have also been incl
 
 ![top terms](images/products.png)
 <div align="center"> Figure 2-Distribution of number of times users have assigned a score(s) to different products</div>
+<br> 
+
+![top terms](images/userID.png)
+<div align="center"> Figure 3-Distribution of number of customers that have assigned a score(s) to different products</div>
 <br> 
 
 ### References
