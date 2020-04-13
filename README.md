@@ -34,7 +34,9 @@ visualizations were created using Plotly express. The charts have also been incl
 <div align="center"> Figure 1-Distribution of Scores for Amazon fine food reviews</div>
 <br> 
 
-
+![top terms](images/products.png)
+<div align="center"> Figure 2-Distribution of number of times users have assigned a score(s) to different products</div>
+<br> 
 
 ### References
 - https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
